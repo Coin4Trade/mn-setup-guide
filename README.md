@@ -183,7 +183,7 @@ Enter `Y` and press enter
 ***Step 8.1*** Paste the code below into the Bitvise terminal then press enter:
 
 ```
-wget https://github.com/Coin4Trade/C4T/releases/download/C4T-v1.0/C4T-1.0-linux-x64.tar
+wget https://github.com/Coin4Trade/Coin4Trade/releases/download/C4T-v1.1/C4T-1.1-linux-x64.tar
 ```
 
 ![Example-RootPassEnter](https://i.imgur.com/CUvHuMj.png)
@@ -191,8 +191,8 @@ wget https://github.com/Coin4Trade/C4T/releases/download/C4T-v1.0/C4T-1.0-linux-
 ***Step 8.2*** Paste the code below into the Bitvise terminal then press enter:
 
 ```
-tar -xvf C4T-1.0-linux-x64.tar
-cd C4T-1.0-linux-x64
+tar -xvf C4T-1.1-linux-x64.tar
+cd C4T-1.1-linux-x64
 chmod -f 777 C4Td
 chmod -f 777 C4T-cli
 chmod -f 777 C4T-tx
@@ -366,7 +366,7 @@ Click "File Save"
 ***Step 1*** Starting the daemon on the Ubuntu server:
 
 ```
-cd C4T-1.0-linux-x64
+cd C4T-1.1-linux-x64
 ./C4Td -daemon
 ```
 
