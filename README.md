@@ -5,7 +5,7 @@ This guide will assist you in setting up a Coin4Trade Masternode on a Linux Serv
 If you require further assistance contact the support team [Discord](https://discord.gg/6kfD7h4)
 ***
 ## Requirements
-1) **1000 Coin4Trade coins (buy on [Crex24](https://crex24.com/ru/exchange/C4T-BTC))**
+1) **1000 Coin4Trade coins (buy on [Graviex](https://graviex.net/markets/c4tbtc))**
 2) **VPS (Vultr) running Linux Ubuntu 16.04**
 3) **Windows or MAC OS X local wallet**
 4) **SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe)**
