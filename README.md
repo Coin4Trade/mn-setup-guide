@@ -1,4 +1,4 @@
-![Example-Logo](https://i.imgur.com/SgvydEE.png)
+![Example-Logo](https://i.imgur.com/OvYm6s4.png)
 # Coin4Trade Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a Coin4Trade Masternode on a Linux Server running Ubuntu 16.04.
 
