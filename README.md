@@ -1,12 +1,12 @@
 ![Example-Logo](https://i.imgur.com/OvYm6s4.png)
-# Coin4Trade Masternode Setup Guide (Ubuntu 16.04)
+# Coin4Trade Masternode Setup Guide (Ubuntu 16.04 or 18.04)
 This guide will assist you in setting up a Coin4Trade Masternode on a Linux Server running Ubuntu 16.04.
 
 If you require further assistance contact the support team [Discord](https://discord.gg/6kfD7h4)
 ***
 ## Requirements
 1) **1 000 000 Coin4Trade coins (buy on [Graviex](https://graviex.net/markets/c4tbtc))**
-2) **VPS (Vultr) running Linux Ubuntu 16.04**
+2) **VPS (Vultr) running Linux Ubuntu 16.04 or 18.04**
 3) **Windows or MAC OS X local wallet**
 4) **SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe)**
 ***
